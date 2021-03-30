@@ -1,0 +1,1 @@
+pandoc -f markdown --pdf-engine=xelatex -o resume.pdf
