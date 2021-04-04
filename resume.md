@@ -21,8 +21,12 @@
 - Vue 개발자로서 사용자 주요 컴포넌트 개발 및 백오피스 개발
 - Azure, Jenkins 등 활용한 인프라 구축 및 REST API 서버 개발
 
+  - **micro-imageconv**, 2021, 03. ~ 2021. 03.
+    - desc. 이미지 변환 및 압축을 위해 express engine으로 만든 마이크로 서비스
+    - stacks: nodejs, express
+
   - **orfeo-kobis**, 2021. 02. ~ 2021. 02.
-    - desc. 한국영화진흥위원회 통합전산망과의 예매 자료 연동을 위한 서비스
+    - desc. 한국영화진흥위원회 통합전산망과의 예매 자료 연동을 위한 마이크로 서비스
     - stacks: php, laravel
     - Jenkins 활용한 CD/CI
 

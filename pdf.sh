@@ -1,1 +1,1 @@
-pandoc -f markdown --pdf-engine=xelatex -o resume.pdf
+pandoc resume.md --pdf-engine=xelatex -o resume.pdf
